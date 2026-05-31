@@ -4,6 +4,7 @@
 
 Welcome to my Flappy Bird replica repository! This project is built using Unity and C# as part of my game development learning journey at **Coding Studio**. The main goal of this project is to implement core 2D game mechanics, physics interactions, and UI states.
 
+![Flappy Bird Gameplay] (Gif/FlappyGameplay.gif)
 ---
 
 ## 🚀 Key Features Implemented
