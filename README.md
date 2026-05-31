@@ -36,8 +36,8 @@ Welcome to my Flappy Bird replica repository! This project is built using Unity 
 | :--- | :--- | :--- | :---: |
 | #1 | Project Setup & Input | Integrated `.gitignore`, configured the 2D workspace, and handled input system. | ✅ Completed |
 | #2 | Player Controller | Implemented `PlayerJump()` using `linearVelocity` via mouse click. | ✅ Completed |
-| #3 | Obstacle Spawning | Designing the infinite pipe spawning and movement mechanic. | 🔄 In Progress |
-| #4 | UI & Game State Loop | Adding the Main Menu, HUD, Game Over panel, and Scene reset logic. | ⏳ Planned |
+| #3 | Obstacle Spawning | Designing the infinite pipe spawning and movement mechanic. | ✅ Completed |
+| #4 | UI & Game State Loop | Adding the Main Menu, HUD, Game Over panel, and Scene reset logic. | ✅ Completed |
 
 ---
 
